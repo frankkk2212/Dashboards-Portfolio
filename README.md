@@ -16,6 +16,7 @@ Bienvenue sur mon portfolio Power BI ! Ce dépôt contient plusieurs projets de 
 - **Python & Streamlit** : Développement du quizz interactif.
 
 ## 🚀 **Comment Utiliser ?** 
+- Rendez vous sur les différents dossiers du portfolio.
 - Téléchargez les fichiers `.pbix` de chaque projet.
 - Ouvrez-les avec Power BI Desktop.
 - Pour le quizz, cliquez simplement sur le lien et vous serez redirigé vers le quizz.
