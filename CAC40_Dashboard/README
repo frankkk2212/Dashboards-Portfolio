@@ -1,0 +1,12 @@
+# 📊 CAC40 Dashboard
+
+Ce dashboard Power BI analyse les entreprises du CAC40 et leurs tendances boursières.
+
+## 🔹 Données utilisées :
+- 📊 Données boursières du CAC40 (Excel)
+- 📌 Indicateurs clés : Prix des actions, Capitalisation boursière, Secteurs d’activité, Rendement des actions...
+
+## 📌 Fonctionnalités :
+- ✔️ Graphiques dynamiques  
+- ✔️ Filtres interactifs par entreprise et secteur  
+- ✔️ Analyse des tendances sur 10 ans 
