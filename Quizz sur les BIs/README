@@ -2,3 +2,7 @@ Ce quizz interactif est conçu pour tester vos connaissances sur les **tableaux 
 
 Pour faire le test, cliquez simplement sur le lien ci-dessous :
 https://quiz-dashboards-rpwze8jdfx6fshfcjfhyl7.streamlit.app/
+
+## 🛠 Technologies Utilisées
+- 🐍 **Python** : Développement du quizz.  
+- 🎨 **Streamlit** : Interface utilisateur et affichage interactif.
