@@ -1,0 +1,31 @@
+# 📊 LuxeFromParis Dashboard
+
+![Aperçu du Dashboard](/LuxeFromParis_Dashboard/apercuLuxeFromParis.png)  
+
+## 📌 Présentation
+Le tableau de bord **LuxeFromParis** propose une analyse détaillée des ventes et performances d’une marque de luxe fictive. 
+
+## 📊 Fonctionnalités Clés
+✔️ **Analyse des ventes** : Comparaison des ventes par produits et catégories.  
+✔️ **Segmentation client** : Identification des clients VIP et nouveaux clients.  
+✔️ **Évolution du chiffre d’affaires** : Suivi des tendances de ventes sur plusieurs périodes.  
+✔️ **Performance des boutiques** : Classement des meilleures boutiques et régions de ventes.  
+✔️ **Analyse des achats** : Nombre de transactions par type de client.  
+
+---
+
+## 🛠 Technologies Utilisées
+- 🖥 **Power BI** : Création des visualisations et tableaux de bord interactifs.  
+- 🗄 **SQL** : Préparation et création de la base de données.    
+- 🔄 **Power Query** : Nettoyage et transformation des données avant intégration.  
+
+---
+
+## 🎯 Comment l'utiliser ?
+1️⃣ **Télécharge** le fichier `.pbix` du dashboard LuxeFromParis depuis ce repository.  
+2️⃣ **Ouvre-le** avec **Power BI Desktop**.  
+3️⃣ **Explore les données** grâce aux filtres et visualisations interactives !  
+
+📌 **Remarque :** Si les sources de données ne se chargent pas, assure-toi d’actualiser les connexions et de vérifier les chemins d’accès.
+
+
