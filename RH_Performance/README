@@ -1,0 +1,22 @@
+# 👥 RH Performance Dashboard
+
+Le tableau de bord **RH Performance** permet d’évaluer la performance et les promotions des employés d’une entreprise fictive. Il offre une vision globale et détaillée des indicateurs clés de gestion des talents :
+
+## 📊 Fonctionnalités Clés
+✔️ **Analyse des promotions** : Suivi des employés promus et analyse des critères d’éligibilité.  
+✔️ **Évaluation des performances** : Comparaison des résultats individuels avec les objectifs.  
+✔️ **Visualisation des formations suivies** : Impact des formations sur les performances.  
+✔️ **Départ des employés** : Analyse des tendances de départ et raisons associées.  
+✔️ **Comparaison des salaires** : Étude des écarts de rémunération avant/après promotion.  
+
+
+## 🛠 Technologies Utilisées
+- 🖥 **Power BI** : Création des visualisations et tableaux de bord interactifs.  
+- 🗄 **SQL** : Gestion et structuration des données des employés et promotions.    
+- 🔄 **Power Query** : Transformation et nettoyage des données avant intégration.  
+
+---
+
+## 🎯 Comment l'utiliser ?
+1️⃣ **Télécharge** le fichier `.pbix` du dashboard **RH Performance** depuis ce repository.  
+2️⃣ **Ouvre-le** avec **Power BI Desktop**.  
